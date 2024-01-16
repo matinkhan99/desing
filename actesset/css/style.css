@@ -1,0 +1,616 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+html,body{
+        overflow-x: hidden;
+}
+
+.navbar-toggler{
+    color: #000;
+}
+
+    
+    
+
+
+.navbar ul li a {
+    color: #000;
+    border-radius: 8px;
+   
+
+}
+.navbar ul li a:hover {
+    background-color: rgb(75, 75, 133);
+     
+}
+.navbar ul li a.active {
+    background-color: rgb(75, 75, 133) ;
+    
+}
+
+
+/* .navbar end  */
+
+.traveleng-home {
+
+   width: 100%;
+    /*background-color: #6D6BE0;*/
+ }
+
+ .one-time {
+    width: 80%;
+    height: 400px;
+    margin: 0 auto;
+    /*background-color: yellow;*/
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+    
+ }
+
+ .text-one{
+    width:50%;
+    height: 300px;
+   /* background-color: violet;*/
+    padding: 10px;
+    margin-top: 50px;
+    
+    
+ }
+
+ .text-one h2{
+    font-size: 35px;
+    font-weight: bolder ;
+    line-height: 3rem;
+ }
+
+ .text-one p{
+    font-size: 21px;
+    margin-top: 40px;
+    color: #8584A2;
+ }
+ 
+ .home-benar-img{
+    width: 50%;
+    height: 300px;
+    margin-top: 50px;
+    /*background-color: turquoise;*/
+ }
+
+ .home-benar-img img{
+    width: 100%;
+  
+ }
+
+  
+
+
+ /* <!-- counter END  --> */
+
+
+ .master{
+    max-width:100%;
+    height: 450px;
+    margin: 0 auto;    
+    
+    
+ 
+}
+.one{
+    width:20%;
+    height:300px;
+    background-color: lightgray;
+    padding: 10px;
+    border: 5px solid gray;
+    border-radius: 5px;
+    float: left;
+    margin-top: 50px;
+    margin-left: 6%;
+    
+}
+.one img{
+    width:100%;
+    border-radius:5px;
+}
+
+.one h2{
+    font-size: 25px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-weight: 900px;
+    text-align: center;
+    margin-top: 20px;
+
+  
+
+}
+
+.one p{
+    font-size: 18px;
+    font-weight:400;
+    color: darkcyan;
+    letter-spacing: 0.5px;
+    line-height: 25px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.two{
+    width:20%;
+    height:300px;
+    background-color: lightgray;
+    padding: 10px;
+    border: 5px solid gray;
+    border-radius: 5px;
+    float: left;
+    margin-top: 50px;
+    box-shadow: 0px 0px 2px 2px #dfddfd;
+    margin-left: 2%;
+    
+    
+    
+}
+
+
+.two img{
+    width:100%;
+    border-radius:5px;
+}
+
+
+.two h2{
+    font-size: 25px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-weight: 900px;
+    color: #fff;
+    text-shadow: 3px 3px 4px #000000;
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.two p{
+    font-size: 18px;
+    font-weight:400;
+    color:gray;
+    letter-spacing: 0.5px;
+    line-height: 25px;
+    text-shadow: 3px 3px 4px #fff;
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+.three{
+    width:20%;
+    height:300px;
+    background-color: lightgray;
+    padding: 10px;
+    border: 5px solid gray;
+    border-radius: 5px;
+    float: left;
+    margin-top: 50px;
+    margin-left: 2%;
+   
+}
+.three img{
+    width:100%;
+    border-radius:5px;
+}
+
+.three h2{
+    font-size: 25px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-weight: 900px;
+    text-align: center;
+    margin-top: 20px;
+  
+
+}
+
+.three p{
+    font-size: 18px;
+    font-weight:400;
+    color: darkcyan;
+    letter-spacing: 0.5px;
+    line-height: 25px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.four{
+    width:20%;
+    height:300px;
+    background-color: lightgray;
+    padding: 10px;
+    border: 5px solid gray;
+    border-radius: 5px;
+    float: left;
+    margin-top: 50px;
+    float: left;
+    box-shadow: 0px 0px 2px 2px #dfddfd;
+    margin-left: 2%;
+}
+
+.four img{
+    width:100%;
+    border-radius:5px;
+}
+
+
+.four h2{
+    font-size: 25px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-weight: 900px;
+    color: #fff;
+    text-shadow: 3px 3px 4px #000000;
+    text-align: center;
+    margin-top: 20px;
+  
+
+}
+
+.four p{
+    font-size: 18px;
+    font-weight:400;
+    color:gray;
+    letter-spacing: 0.5px;
+    line-height: 25px;
+    text-shadow: 3px 3px 4px #fff;
+    text-align: center;
+    margin-top: 30px;
+    
+}
+
+
+
+
+
+/* <!-- projects end   -->   */
+
+.About-section {
+    padding: 20px 0px;
+    
+}
+
+
+.web-Learning a:hover {
+   background-color: #6D6BE0;
+}
+
+  .Animation .web-Learning  h2 { 
+    color: #000000;
+    font-size: 40px;
+
+}
+.web-Learning  h2 {
+    text-align: center;
+}
+.games {
+    padding: 40px 0px;
+}
+.games .col-lg-3 {
+    background-color:#FFF;
+    width: 200px;
+    height: 90px;
+    margin: 20px;
+    border-radius: 10px;
+}
+.col-lg-3  h2 {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 26px;
+}
+.col-lg-3  p {
+    text-align: center;
+    margin-top: 10px;
+}
+.col-lg-3:hover {
+  background-color:#e0a46b;
+}
+
+.one-pages-img img {
+    width: 100%;
+    border-radius: 20px;
+    height: 350px;
+}
+.style-box {
+    width: 100%;
+    height: 500px;
+    margin: 0 auto;
+    display: flex;
+   justify-content: space-between;
+   
+}
+
+.baeenr {
+    text-align: center;
+}
+
+.growit {
+    /* margin-left: 50px; */
+    text-align: center;
+}
+
+.growit h2 {
+    font-size: 40px;
+    width: 100%;
+    color: #000000;
+}
+.growit p {
+    width: 80%;
+    margin: auto;
+    
+    color:#8584A2;
+    margin-top: 20px;
+    
+}
+.tex-box {
+    width: 90%;
+    height: 100px;
+    margin-top: 20px;
+    font-size: 52px;
+    text-align: center;
+}
+.my-btn {
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 37.5px;
+    text-decoration: none;
+    color: #6D6BE0;
+}
+
+
+/* <!-- About-section END  -->  */
+
+
+
+.detail-section {
+    padding: 70px 0px;
+  
+}
+.Shipment-img img{
+   height: 400px;
+   margin-top: 30px;
+   border-radius: 20px;
+}
+.detail-box h2 {
+    font-size: 50px;
+    color: #000000;
+    
+}
+
+/* <!-- detail-section EIND  -->  */
+
+.Contact-section{
+    text-align: center;
+ }
+.card-img img {
+    width: 80px;
+    height: 80px;
+ }
+ .Nattasha p {
+     width: 660px;
+     font-size: 24px;
+     margin-top: 60px;
+     margin-left: 100px;
+     text-align: center;
+ }
+ .call_icon-img {
+     display: flex;
+     align-items: center;
+ }
+ .call_icon-img img {
+     width: 80px;
+     height: 80px;
+     border-radius: 100%;
+ }
+
+
+ 
+ .work_process {
+     padding: 70px 0px;
+     text-align: center;
+ }
+ .readmore h2 {
+     font-size: 60px;
+     color: #000000;
+ }
+ .readmore  p {
+     font-size: 24px;
+     margin-top: 30px;
+     color: #000000;
+ }
+ .style_content-img img {
+     margin-top: 30px;
+     border-radius: 100%;
+ }
+ .style_content-img  p {
+  margin-top: 30px;
+  font-size: 24px;
+  color: #000000;
+ }
+ 
+ 
+ /* <!-- Contact-section END  -->   */
+
+
+
+/*media query start*/
+
+@media (min-width: 320px) and (max-width: 767px) {
+    .text-one{
+      width: 100%;
+      
+    }
+    .one-time {
+        
+        height: auto;
+    }
+    .home-benar-img{
+        width: 100%;
+        
+    }
+    .text-one p{
+        margin-top: 15px;
+     }
+
+     .food-section{
+        padding: 40px 0px;
+     } 
+     .desindn p { 
+        width: 300px;
+        margin-top: 25px;
+        text-align: left;
+        color: #8584A2;
+     }
+
+     .desindn h2 {
+        font-size: 35px;
+    }
+    
+    .home-benar-img {
+        height: 200px;
+    }
+    .Shipment-img{
+        text-align: center;
+    }
+    .tex-box{
+        height: auto;
+    }
+    .detail-box h2{
+        font-size: 35px;
+       
+    }
+    .readmore h2{
+        font-size: 35px;
+    }
+        
+    .navbar-toggler-icon{
+        background-color: #9b9aec;
+        font-size: 30px;
+        border-radius: 50%;
+        
+        
+    }
+
+    .navbar ul li a.active {
+        background-color: rgb(75, 75, 133);
+        width: 200px;
+        height: 41px;
+        padding: 10px;
+
+    }
+
+    .master {
+        width: 100%;
+       height: 1900px;
+
+       
+    }
+
+    .one  {
+        width: 80%;
+        height: 400px;
+    }
+
+    .two {
+        width: 80%;
+        height: 400px;
+        margin-left: 30px;
+    }
+
+    .three {
+        width: 80%;
+        height: 400px;
+        margin-left: 30px;
+    }
+
+    .four {
+        width: 80%;
+        height: 400px;
+        margin-left: 30px;
+    }
+
+    .style-box {
+        flex-wrap: wrap;
+        width: 100%;
+        height: 250px;
+        margin: 0 auto;
+      
+       
+    }
+    .growit h2 {
+        font-size: 20px;
+        width: 50%;
+        
+    }
+
+    .tex-box {
+        width: 50%;
+        height: 100px;
+        margin-top: 20px;
+        font-size: 32px;
+        
+    }
+    .one-pages-img img  {
+        width: 100%;
+        height: 250px;
+    }
+
+    
+    .one{
+       align-items: center;
+       margin-left: 30px;
+    }
+
+    .style-box  {
+        height: auto;
+    }
+
+
+    .growit h2 {
+    font-size: 20px;
+    width: 100%;
+    margin-top: 40px;
+ }
+
+   .growit p {
+    width: 100%;
+    color: #8584A2;
+    margin-top: 20px;
+}
+
+  .tex-box {
+    width: 100%;
+    height: 100px;
+    margin-top: 20px;
+    font-size: 32px;
+}
+
+.web-Learning h2  {
+  font-size: 35px;
+}
+
+  .games .col-lg-3 {
+    width: 300px;
+  }
+    
+
+  
+  }
+
+
+
+
+
+
+
